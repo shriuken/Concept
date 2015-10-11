@@ -14,6 +14,11 @@ public class menuButtonHandlers : MonoBehaviour {
         quit = !quit;
     }
 
+    public void LoadGame()
+    {
+
+    }
+
 public bool quit  = false;
 
     void OnGUI()
